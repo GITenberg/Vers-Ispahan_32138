@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/853
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32138#Vers-Ispahan
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2010-04-25'
 gutenberg_type: Text
