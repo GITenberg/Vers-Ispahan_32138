@@ -1,0 +1,33 @@
+_repo: Vers-Ispahan_32138
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Louis Marie Julien
+    - Viaud, Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2010-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32138'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iran -- Description and travel'
+- !lcsh 'Novelists, French -- 19th century -- Biography'
+- !lcc 'DS'
+- !lcsh 'Loti, Pierre, 1850-1923 -- Travel -- Iran'
+title: Vers Ispahan
+url: http://www.gutenberg.org/ebooks/32138
